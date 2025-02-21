@@ -1,0 +1,6 @@
+https://greentech-community.org/signup
+http://192.168.1.55/dashboard
+http://files.greentech.net/weather_reports.
+https://support.greentech.org.
+www.greentech-events.local
+http://10.0.0.1
